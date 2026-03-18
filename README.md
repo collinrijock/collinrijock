@@ -1,18 +1,8 @@
 ## Collin Rijock
 
-**Explorer at heart. Engineer by trade.**
+I like building software, writing about ideas, and figuring out how things work. Most of my career has been as a founding or early engineer at startups in Miami.
 
-Lead Software Engineer at [Exowatt](https://exowatt.com) — building the energy management platform for modular solar thermal power. Previously founding engineer at [BuildrFi](https://collinrijock.com/projects/buildrfi) (AI-powered construction fintech) and [Lula](https://lulainsured.com) (Series B insurtech, scaled $2M → $30M ARR).
-
-I build full-stack products end-to-end — from infrastructure to UI, zero to ship. I write about technology, startups, and ideas at [collinrijock.com](https://collinrijock.com).
-
----
-
-**Stack**
-
-```
-React  TypeScript  Node.js  PostgreSQL  AWS  Python  React Native
-```
+Right now I lead engineering at [Exowatt](https://exowatt.com). Before that I was the first engineer at BuildrFi and one of the earliest at Lula.
 
 ---
 
