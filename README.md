@@ -14,4 +14,4 @@ Right now I lead engineering at [Exowatt](https://exowatt.com). Before that I wa
 
 ---
 
-[Website](https://collinrijock.com) · [LinkedIn](https://linkedin.com/in/collinrijock) · [Twitter](https://x.com/CollinRijock)
+[Website](https://collinrijock.com) · [LinkedIn](https://www.linkedin.com/in/collin-rijock/) · [X](https://x.com/CollinRijock)
